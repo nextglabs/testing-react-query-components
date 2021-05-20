@@ -22,11 +22,6 @@ export class StoreApi {
             );
         }
 
-        const promise = new Promise((resolve, reject) => {
-            setTimeout(resolve, 1000)
-        })
-        await promise;
-
         return resp.json();
     };
 

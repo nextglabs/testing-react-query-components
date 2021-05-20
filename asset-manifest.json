@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/testing-react-query-components/static/js/main.5fd174fb.chunk.js",
+    "main.js.map": "/testing-react-query-components/static/js/main.5fd174fb.chunk.js.map",
+    "runtime-main.js": "/testing-react-query-components/static/js/runtime-main.f567f438.js",
+    "runtime-main.js.map": "/testing-react-query-components/static/js/runtime-main.f567f438.js.map",
+    "static/js/2.110dbaf1.chunk.js": "/testing-react-query-components/static/js/2.110dbaf1.chunk.js",
+    "static/js/2.110dbaf1.chunk.js.map": "/testing-react-query-components/static/js/2.110dbaf1.chunk.js.map",
+    "static/js/3.28a07d74.chunk.js": "/testing-react-query-components/static/js/3.28a07d74.chunk.js",
+    "static/js/3.28a07d74.chunk.js.map": "/testing-react-query-components/static/js/3.28a07d74.chunk.js.map",
+    "index.html": "/testing-react-query-components/index.html",
+    "static/js/2.110dbaf1.chunk.js.LICENSE.txt": "/testing-react-query-components/static/js/2.110dbaf1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f567f438.js",
+    "static/js/2.110dbaf1.chunk.js",
+    "static/js/main.5fd174fb.chunk.js"
+  ]
+}

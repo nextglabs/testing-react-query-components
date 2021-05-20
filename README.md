@@ -4,8 +4,7 @@ This project has been created to demonstrate how to easily test React components
 
 ## Medium Article
 
-You can read the Medium article on [How to Test React-Query Components]
-//TODO: add URL
+You can read the Medium article on [How to Build & Test React-Query Components in Typescript](https://nextglabs.medium.com/how-to-build-test-react-query-components-in-typescript-9527dc9924da)
 
 ## Getting Started
 
